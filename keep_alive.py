@@ -8,7 +8,7 @@ logging.basicConfig(
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
-URL = "https://your-app-name.onrender.com/"  
+URL = "https://automated-bill-extraction-system-jm90.onrender.com/"
 INTERVAL = 600  # 10 minutes (Render sleeps after 15 mins)
 
 def ping_server():
