@@ -10,7 +10,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
-[Overview](#overview) • [Architecture](#system-architecture) • [Installation](#Installation & Setup) • [Project Structure](#Project-Structure) 
+[Overview](#overview) • [Architecture](#system-architecture) • [Installation](#Installation-&-Setup) • [Project Structure](#Project-Structure) 
 
 </div>
 
